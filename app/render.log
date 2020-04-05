@@ -1,0 +1,2204 @@
+[V] EGL new output window to handle: 1052220.
+[V] OpenGL context version 4.6.
+[V] NPOT full support.
+[V] GS::GPU::Renderer::LoadCoreShaders
+[V] Creating shader '@core/shaders/gpu/single_texture_color.nsa'...
+[V] EGL shader linked successfully at id 3.
+[V] Creating shader '@core/shaders/gpu/single_texture.nsa'...
+[V] EGL shader linked successfully at id 6.
+[V] Creating shader '@core/shaders/gpu/single_color.nsa'...
+[V] EGL shader linked successfully at id 9.
+[V] Creating shader '@core/shaders/gpu/simple.nsa'...
+[V] EGL shader linked successfully at id 12.
+[V] Creating shader '@core/shaders/gpu/single_texture_cutoff.nsa'...
+[V] EGL shader linked successfully at id 15.
+[V] Creating shader '@core/shaders/gpu/single_texture_fx.nsa'...
+[V] EGL shader linked successfully at id 18.
+[V] Creating shader '@core/shaders/gpu/tone_mapping.nsa'...
+[V] EGL shader linked successfully at id 21.
+[V] Creating shader '@core/shaders/gpu/ambient.nsa'...
+[V] EGL shader linked successfully at id 24.
+[V] Creating shader '@core/shaders/gpu/deferred/spotlight.nsa'...
+[V] EGL shader linked successfully at id 27.
+[V] Creating shader '@core/shaders/gpu/deferred/spotlight_shadow.nsa'...
+[V] EGL shader linked successfully at id 30.
+[V] Creating shader '@core/shaders/gpu/deferred/pointlight.nsa'...
+[V] EGL shader linked successfully at id 33.
+[V] Creating shader '@core/shaders/gpu/deferred/pointlight_shadow.nsa'...
+[V] EGL shader linked successfully at id 36.
+[V] Creating shader '@core/shaders/gpu/deferred/linearlight.nsa'...
+[V] EGL shader linked successfully at id 39.
+[V] Creating shader '@core/shaders/gpu/deferred/linearlight_shadow.nsa'...
+[V] EGL shader linked successfully at id 42.
+[V] Creating shader '@core/shaders/gpu/deferred/ds_fog.nsa'...
+[V] EGL shader linked successfully at id 45.
+[V] Creating shader '@core/shaders/gpu/fx_blur.nsa'...
+[V] EGL shader linked successfully at id 48.
+[V] Creating shader '@core/shaders/gpu/noise.nsa'...
+[V] EGL shader linked successfully at id 51.
+[V] Creating shader '@core/shaders/gpu/sharpen.nsa'...
+[V] EGL shader linked successfully at id 54.
+[V] Creating shader '@core/shaders/gpu/hsl.nsa'...
+[V] EGL shader linked successfully at id 57.
+[V] Creating shader '@core/shaders/gpu/chromatic_dispersion.nsa'...
+[V] EGL shader linked successfully at id 60.
+[V] Creating shader '@core/shaders/gpu/ssaa.nsa'...
+[V] EGL shader linked successfully at id 63.
+[V] Creating shader '@core/shaders/gpu/ssao.nsa'...
+[V] EGL shader linked successfully at id 66.
+[V] Creating shader '@core/shaders/gpu/ssao_blur.nsa'...
+[V] EGL shader linked successfully at id 69.
+[V] Creating shader '@core/shaders/gpu/motion_blur.nsa'...
+[V] EGL shader linked successfully at id 72.
+[V] Creating shader '@core/shaders/gpu/radial_blur.nsa'...
+[V] EGL shader linked successfully at id 75.
+[V] Creating shader '@core/shaders/gpu/skybox.nsa'...
+[V] EGL shader linked successfully at id 78.
+Creating shadow maps (1024x1024).
+[V] New GL texture object id 1.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1024, H: 1024
+SetRenderTechnique(): 1280x720
+[V] New GL texture object id 2.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[V] New GL texture object id 3.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[V] New GL texture object id 4.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[V] New GL texture object id 5.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[V] New GL texture object id 6.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[V] New GL texture object id 7.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[V] New GL texture object id 8.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[V] New GL texture object id 9.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[V] New GL texture object id 10.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[V] New GL texture object id 11.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[V] New GL texture object id 12.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 720
+[H] Setup terrain cache: 32 pages (3244800 bytes).
+[V] Entering DDS texture loader for '@core/noise.tga'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for '@core/noise.tga'...
+Memory configuration: Little endian.
+[V] Invalid PVR header.
+[V] Creating texture '@core/noise.tga'.
+[V] EGL Delete texture 0x0, GL id 13.
+[V] New GL texture object id 13.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 128, H: 128
+[V] Entering DDS texture loader for '@core/fonts/profiler_base_00.tga'...
+[V] Invalid DDS header.
+[H] OpenAL ready on device 'OpenAL Soft'.
+[V] Entering PVR texture loader for '@core/fonts/profiler_base_00.tga'...
+[V] Invalid PVR header.
+[V] Creating texture '@core/fonts/profiler_base_00.tga'.
+[V] EGL Delete texture 0x0, GL id 14.
+[V] New GL texture object id 14.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 256, H: 256
+[V] Entering DDS texture loader for '@core/fonts/profiler_bold_00.tga'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for '@core/fonts/profiler_bold_00.tga'...
+[V] Invalid PVR header.
+[V] Creating texture '@core/fonts/profiler_bold_00.tga'.
+[V] EGL Delete texture 0x0, GL id 15.
+[V] New GL texture object id 15.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 256, H: 256
+[*] No space character in font '@core/fonts/fps.nml'.
+[V] Entering DDS texture loader for '@core/fonts/fps_00.tga'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for '@core/fonts/fps_00.tga'...
+[V] Invalid PVR header.
+[V] Creating texture '@core/fonts/fps_00.tga'.
+[V] EGL Delete texture 0x0, GL id 16.
+[V] New GL texture object id 16.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 256, H: 256
+[V] Input system is installing windows hook.
+[H] Freetype2: Loading font '@core/default.ttf'.
+Created a new font alias from '@core/default.ttf' to 'default'.
+Session type: 1
+[H] Vorbis stream closed.
+Sample format: 44KHz@16bit, 2 channel(s).
+[H] Vorbis stream closed.
+Sample format: 44KHz@16bit, 2 channel(s).
+[H] Vorbis stream 'data/Title_Romain.ogg' - 48000hz 16bit 2 channel(s).
+    Max frame size = 1024
+[V] AL stream on channel 0
+Done loading scene in 0.000ms.
+Scene 'Scenes/Title.nms' render setup...
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/frozenCube.nmg'.
+[H] Load render material 'Mesh/CubeDefaultBlue.nmm'.
+[V] Entering DDS texture loader for 'Mesh/planet_envmap_0.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Mesh/planet_envmap_0.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Mesh/planet_envmap_0.png'.
+[V] EGL Delete texture 0x0, GL id 17.
+[V] New GL texture object id 17.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 128, H: 128
+[V] Creating material shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture2Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5' variants.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture2Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_Depth'...
+[V] EGL shader linked successfully at id 81.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture2Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_DS_GBufferMRT4'...
+[V] EGL shader linked successfully at id 84.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture2Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_PP_NormalDepth'...
+[V] EGL shader linked successfully at id 87.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture2Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_PP_Velocity'...
+[V] EGL shader linked successfully at id 90.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 142 vertice, 158 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/Vehicle33.nmg'.
+[H] Load render material 'Mesh/Below.nmm'.
+[V] Creating material shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture0Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5' variants.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture0Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_Depth'...
+[V] EGL shader linked successfully at id 93.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture0Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_DS_GBufferMRT4'...
+[V] EGL shader linked successfully at id 96.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture0Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_PP_NormalDepth'...
+[V] EGL shader linked successfully at id 99.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture0Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_PP_Velocity'...
+[V] EGL shader linked successfully at id 102.
+Building geometry triangle list...
+Done, average: 280.000 tri/list, 0.000 bone/list.
+[H] Setup scene 'Scenes/Title.nms'.
+[H] Freetype2: Loading font 'ui/DIMIS.TTF'.
+Created a new font alias from 'ui/DIMIS.TTF' to 'DIMIS'.
+[H] Freetype2: Loading font 'ui/ONRAMP.ttf'.
+Created a new font alias from 'ui/ONRAMP.ttf' to 'ONRAMP'.
+[H] Freetype2: Loading font 'ui/blanch_caps.ttf'.
+Created a new font alias from 'ui/blanch_caps.ttf' to 'blanch_caps'.
+[H] Freetype2: Loading font 'ui/Aldrich.ttf'.
+Created a new font alias from 'ui/Aldrich.ttf' to 'Aldrich'.
+[V] New GL texture object id 18.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1920, H: 200
+[V] New GL texture object id 19.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 620, H: 40
+[V] New GL texture object id 20.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 620, H: 40
+[V] New GL texture object id 21.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 620, H: 40
+[V] New GL texture object id 22.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1920, H: 240
+[V] New GL texture object id 23.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 96
+[V] New GL texture object id 24.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1280, H: 96
+[V] New GL texture object id 25.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1920, H: 96
+[H] Starting input device enumeration.
+[H] Reset scene 'Scenes/Title.nms'.
+[H] Session running.
+[H] Vorbis stream closed.
+Sample format: 44KHz@16bit, 2 channel(s).
+[H] Vorbis stream closed.
+Sample format: 44KHz@16bit, 1 channel(s).
+[H] Vorbis stream closed.
+Sample format: 44KHz@16bit, 2 channel(s).
+[V] AL start on channel 1
+[V] AL start on channel 1
+[V] AL start on channel 1
+[V] AL start on channel 1
+[V] AL start on channel 1
+[V] AL start on channel 1
+[V] EGL Delete texture 1920x200, GL id 18.
+[V] EGL Delete texture 620x40, GL id 19.
+[V] EGL Delete texture 620x40, GL id 20.
+[V] EGL Delete texture 620x40, GL id 21.
+[V] EGL Delete texture 1920x240, GL id 22.
+[V] EGL Delete texture 1280x96, GL id 23.
+[V] EGL Delete texture 1280x96, GL id 24.
+[V] EGL Delete texture 1920x96, GL id 25.
+Done loading scene in 0.000ms.
+Scene 'Scenes/Preload.nms' render setup...
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/Cube6.nmg'.
+[H] Load render material 'Mesh/CubeDefaultBlue.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeDefaultBlue.nmm'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[H] Setup scene 'Scenes/Preload.nms'.
+[S] 0
+[V] New GL texture object id 18.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 640, H: 50
+[H] Reset scene 'Scenes/Preload.nms'.
+[S] init
+[S] Loading geometries...
+[S]    loading Mesh/TunnelElement.nmg
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 384 vertice, 384 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/TunnelElement.nmg'.
+[H] Load render material 'Mesh/Material_001.nmm'.
+[V] Creating material shader 'NormalSmoothMatParm0MatParm1MatParm4MatParm2MatParm5' variants.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4MatParm2MatParm5_Depth'...
+[V] EGL shader linked successfully at id 105.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4MatParm2MatParm5_DS_GBufferMRT4'...
+[V] EGL shader linked successfully at id 108.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4MatParm2MatParm5_PP_NormalDepth'...
+[V] EGL shader linked successfully at id 111.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4MatParm2MatParm5_PP_Velocity'...
+[V] EGL shader linked successfully at id 114.
+Building geometry triangle list...
+Done, average: 768.000 tri/list, 0.000 bone/list.
+[S] Loading geometry...Mesh/TunnelElement.nmg
+[S]    loading Mesh/reactor1.nmg
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 306 vertice, 304 polygon(s), 6 material(s).
+[H] Setup geometry 'Mesh/reactor1.nmg'.
+[H] Load render material 'Mesh/Material.nmm'.
+[V] Reusing cached material shader for material 'Mesh/Material.nmm'.
+[H] Load render material 'Mesh/black.nmm'.
+[V] Reusing cached material shader for material 'Mesh/black.nmm'.
+[H] Load render material 'Mesh/glass.nmm'.
+[V] Reusing cached material shader for material 'Mesh/glass.nmm'.
+[H] Load render material 'Mesh/green.nmm'.
+[V] Reusing cached material shader for material 'Mesh/green.nmm'.
+[H] Load render material 'Mesh/red.nmm'.
+[V] Entering DDS texture loader for 'Tex/envmap_soft_edges.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Tex/envmap_soft_edges.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Tex/envmap_soft_edges.png'.
+[V] EGL Delete texture 0x0, GL id 19.
+[V] New GL texture object id 19.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 256, H: 256
+[V] Reusing cached material shader for material 'Mesh/red.nmm'.
+[H] Load render material 'Mesh/yellow.nmm'.
+[V] Reusing cached material shader for material 'Mesh/yellow.nmm'.
+Building geometry triangle list...
+Done, average: 304.000 tri/list, 0.000 bone/list.
+[S] Loading geometry...Mesh/reactor1.nmg
+[S]    loading Mesh/Vehicle3.nmg
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 87 vertice, 88 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/Vehicle3.nmg'.
+Building geometry triangle list...
+Done, average: 170.000 tri/list, 0.000 bone/list.
+[S] Loading geometry...Mesh/Vehicle3.nmg
+[S]    loading Mesh/Vehicle31.nmg
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 87 vertice, 88 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/Vehicle31.nmg'.
+Building geometry triangle list...
+Done, average: 170.000 tri/list, 0.000 bone/list.
+[S] Loading geometry...Mesh/Vehicle31.nmg
+[S]    loading Mesh/Vehicle32.nmg
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 103 vertice, 104 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/Vehicle32.nmg'.
+Building geometry triangle list...
+Done, average: 202.000 tri/list, 0.000 bone/list.
+[S] Loading geometry...Mesh/Vehicle32.nmg
+[S]    loading Mesh/Vehicle33.nmg
+[S] Loading geometry...Mesh/Vehicle33.nmg
+[S]    loading Mesh/Vehic1.nmg
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 84 vertice, 83 polygon(s), 5 material(s).
+[H] Setup geometry 'Mesh/Vehic1.nmg'.
+[H] Load render material 'Mesh/around.nmm'.
+[V] Reusing cached material shader for material 'Mesh/around.nmm'.
+[H] Load render material 'Mesh/cockpit.nmm'.
+[V] Reusing cached material shader for material 'Mesh/cockpit.nmm'.
+[H] Load render material 'Mesh/metal.nmm'.
+[V] Reusing cached material shader for material 'Mesh/metal.nmm'.
+[H] Load render material 'Mesh/reactor.nmm'.
+[V] Reusing cached material shader for material 'Mesh/reactor.nmm'.
+Building geometry triangle list...
+Done, average: 33.200 tri/list, 0.000 bone/list.
+[S] Loading geometry...Mesh/Vehic1.nmg
+[S]    loading Mesh/Spacecraft.nmg
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 6637 vertice, 6582 polygon(s), 7 material(s).
+[H] Setup geometry 'Mesh/Spacecraft.nmg'.
+[H] Load render material 'Mesh/Material__SpaceshipUVMAP.nmm'.
+[V] Creating material shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture1Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5' variants.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture1Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_Depth'...
+[V] EGL shader linked successfully at id 117.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture1Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_DS_GBufferMRT4'...
+[V] EGL shader linked successfully at id 120.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture1Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_PP_NormalDepth'...
+[V] EGL shader linked successfully at id 123.
+[V] Creating shader 'NormalSmoothMatParm0MatParm1MatParm4AddMatParm2TexSampler0MatTexture1Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_PP_Velocity'...
+[V] EGL shader linked successfully at id 126.
+[H] Load render material 'Mesh/black__SpaceshipUVMAP.nmm'.
+[V] Reusing cached material shader for material 'Mesh/black__SpaceshipUVMAP.nmm'.
+[H] Load render material 'Mesh/blue__SpaceshipUVMAP.nmm'.
+[V] Reusing cached material shader for material 'Mesh/blue__SpaceshipUVMAP.nmm'.
+[H] Load render material 'Mesh/glass__SpaceshipUVMAP.nmm'.
+[V] Entering DDS texture loader for 'Mesh/fallof_map_0.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Mesh/fallof_map_0.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Mesh/fallof_map_0.png'.
+[V] EGL Delete texture 0x0, GL id 20.
+[V] New GL texture object id 20.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 256, H: 256
+[V] Reusing cached material shader for material 'Mesh/glass__SpaceshipUVMAP.nmm'.
+[H] Load render material 'Mesh/red__SpaceshipUVMAP.nmm'.
+[V] Reusing cached material shader for material 'Mesh/red__SpaceshipUVMAP.nmm'.
+[H] Load render material 'Mesh/small_reactors__SpaceshipUVMAP.nmm'.
+[V] Reusing cached material shader for material 'Mesh/small_reactors__SpaceshipUVMAP.nmm'.
+[H] Load render material 'Mesh/yellow__SpaceshipUVMAP.nmm'.
+[V] Reusing cached material shader for material 'Mesh/yellow__SpaceshipUVMAP.nmm'.
+Building geometry triangle list...
+Done, average: 1880.571 tri/list, 0.000 bone/list.
+[S] Loading geometry...Mesh/Spacecraft.nmg
+[S]    loading Mesh/ForceField.nmg
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 242 vertice, 256 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/ForceField.nmg'.
+[H] Load render material 'Mesh/Material_002__FF.nmm'.
+[V] Entering DDS texture loader for 'Tex/FF7.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Tex/FF7.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Tex/FF7.png'.
+[V] EGL Delete texture 0x0, GL id 21.
+[V] New GL texture object id 21.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 2048, H: 2048
+[V] Creating material shader 'NormalSmoothMulSwizzle4000TexSampler0MatTexture0Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5' variants.
+[V] Creating shader 'NormalSmoothMulSwizzle4000TexSampler0MatTexture0Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_Depth'...
+[V] EGL shader linked successfully at id 129.
+[V] Creating shader 'NormalSmoothMulSwizzle4000TexSampler0MatTexture0Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_DS_GBufferMRT4'...
+[V] EGL shader linked successfully at id 132.
+[V] Creating shader 'NormalSmoothMulSwizzle4000TexSampler0MatTexture0Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_PP_NormalDepth'...
+[V] EGL shader linked successfully at id 135.
+[V] Creating shader 'NormalSmoothMulSwizzle4000TexSampler0MatTexture0Swizzle1200PackVectorMulNormalViewMatrixNormalSmoothMatParm5_PP_Velocity'...
+[V] EGL shader linked successfully at id 138.
+Building geometry triangle list...
+Done, average: 480.000 tri/list, 0.000 bone/list.
+[S] Loading geometry...Mesh/ForceField.nmg
+[S]    loading Mesh/Cube6.nmg
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/Cube6.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[S] Loading geometry...Mesh/Cube6.nmg
+[S]    loading Mesh/Cube.nmg
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 114 vertice, 112 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/Cube.nmg'.
+Building geometry triangle list...
+Done, average: 224.000 tri/list, 0.000 bone/list.
+[S] Loading geometry...Mesh/Cube.nmg
+[S] Loading textures...
+[S]    loading Sav/pattern7.png
+[V] Entering DDS texture loader for 'Sav/pattern7.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Sav/pattern7.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Sav/pattern7.png'.
+[V] EGL Delete texture 0x0, GL id 22.
+[V] New GL texture object id 22.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 13, H: 13
+[S] Loading texture...Sav/pattern7.png
+[S]    loading Sav/pattern6.png
+[V] Entering DDS texture loader for 'Sav/pattern6.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Sav/pattern6.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Sav/pattern6.png'.
+[V] EGL Delete texture 0x0, GL id 23.
+[V] New GL texture object id 23.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 13, H: 13
+[S] Loading texture...Sav/pattern6.png
+[S]    loading Sav/pattern5.png
+[V] Entering DDS texture loader for 'Sav/pattern5.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Sav/pattern5.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Sav/pattern5.png'.
+[V] EGL Delete texture 0x0, GL id 24.
+[V] New GL texture object id 24.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 16, H: 32
+[S] Loading texture...Sav/pattern5.png
+[S]    loading Sav/pattern4.png
+[V] Entering DDS texture loader for 'Sav/pattern4.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Sav/pattern4.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Sav/pattern4.png'.
+[V] EGL Delete texture 0x0, GL id 25.
+[V] New GL texture object id 25.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 32, H: 16
+[S] Loading texture...Sav/pattern4.png
+[S]    loading Sav/pattern3.png
+[V] Entering DDS texture loader for 'Sav/pattern3.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Sav/pattern3.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Sav/pattern3.png'.
+[V] EGL Delete texture 0x0, GL id 26.
+[V] New GL texture object id 26.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 13, H: 13
+[S] Loading texture...Sav/pattern3.png
+[S]    loading Sav/pattern2.png
+[V] Entering DDS texture loader for 'Sav/pattern2.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Sav/pattern2.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Sav/pattern2.png'.
+[V] EGL Delete texture 0x0, GL id 27.
+[V] New GL texture object id 27.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 13, H: 13
+[S] Loading texture...Sav/pattern2.png
+[S]    loading Sav/pattern1.png
+[V] Entering DDS texture loader for 'Sav/pattern1.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Sav/pattern1.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Sav/pattern1.png'.
+[V] EGL Delete texture 0x0, GL id 28.
+[V] New GL texture object id 28.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 30, H: 30
+[S] Loading texture...Sav/pattern1.png
+[S]    loading Sav/pattern0.png
+[V] Entering DDS texture loader for 'Sav/pattern0.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Sav/pattern0.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Sav/pattern0.png'.
+[V] EGL Delete texture 0x0, GL id 29.
+[V] New GL texture object id 29.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 32, H: 16
+[S] Loading texture...Sav/pattern0.png
+[S]    loading Tex/envmap_soft_edges.png
+[S] Loading texture...Tex/envmap_soft_edges.png
+[S] Loading materials...
+[S]    loading Mesh/Below.nmm
+[S] Loading material...Mesh/Below.nmm
+[S]    loading Mesh/CubeMat6.nmm
+[H] Load render material 'Mesh/CubeMat6.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat6.nmm'.
+[S] Loading material...Mesh/CubeMat6.nmm
+[S]    loading Mesh/CubeMat5.nmm
+[H] Load render material 'Mesh/CubeMat5.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat5.nmm'.
+[S] Loading material...Mesh/CubeMat5.nmm
+[S]    loading Mesh/CubeMat4.nmm
+[H] Load render material 'Mesh/CubeMat4.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat4.nmm'.
+[S] Loading material...Mesh/CubeMat4.nmm
+[S]    loading Mesh/CubeMat3.nmm
+[H] Load render material 'Mesh/CubeMat3.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat3.nmm'.
+[S] Loading material...Mesh/CubeMat3.nmm
+[S]    loading Mesh/CubeMat2.nmm
+[H] Load render material 'Mesh/CubeMat2.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat2.nmm'.
+[S] Loading material...Mesh/CubeMat2.nmm
+[S]    loading Mesh/CubeMat1.nmm
+[H] Load render material 'Mesh/CubeMat1.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat1.nmm'.
+[S] Loading material...Mesh/CubeMat1.nmm
+[S]    loading Mesh/CubeDefaultBlue.nmm
+[S] Loading material...Mesh/CubeDefaultBlue.nmm
+[S] Loading sounds...
+[S]    loading data/soundbits/kick2.wav
+[H] Vorbis stream closed.
+[S] Loading sound...data/soundbits/kick2.wav
+Sample format: 44KHz@16bit, 2 channel(s).
+[S]    loading data/soundbits/SH101T.wav
+[H] Vorbis stream closed.
+[S] Loading sound...data/soundbits/SH101T.wav
+Sample format: 44KHz@16bit, 2 channel(s).
+[S]    loading data/soundbits/HatBasic.wav
+[H] Vorbis stream closed.
+[S] Loading sound...data/soundbits/HatBasic.wav
+Sample format: 44KHz@16bit, 2 channel(s).
+[S]    loading data/soundbits/CB_Snare.wav
+[H] Vorbis stream closed.
+[S] Loading sound...data/soundbits/CB_Snare.wav
+Sample format: 44KHz@16bit, 2 channel(s).
+[S]    loading data/soundbits/SeeTwo2.wav
+[H] Vorbis stream closed.
+Sample format: 44KHz@16bit, 2 channel(s).
+[S] Loading sound...data/soundbits/SeeTwo2.wav
+[S]    loading data/soundbits/Arpegio5.wav
+[H] Vorbis stream closed.
+[S] Loading sound...data/soundbits/Arpegio5.wav
+Sample format: 44KHz@16bit, 2 channel(s).
+[S]    loading data/soundbits/KickBasic.wav
+[H] Vorbis stream closed.
+[S] Loading sound...data/soundbits/KickBasic.wav
+Sample format: 44KHz@16bit, 2 channel(s).
+[S]    loading data/soundbits/clapBasic.wav
+[H] Vorbis stream closed.
+Sample format: 44KHz@16bit, 2 channel(s).
+[S] Loading sound...data/soundbits/clapBasic.wav
+[S]    loading data/soundbits/Harp.wav
+[H] Vorbis stream closed.
+Sample format: 44KHz@16bit, 2 channel(s).
+[S] Loading sound...data/soundbits/Harp.wav
+[S]    loading data/soundbits/404Reasons.wav
+[H] Vorbis stream closed.
+[S] Loading sound...data/soundbits/404Reasons.wav
+Sample format: 44KHz@16bit, 2 channel(s).
+[S] Preloading complete. Press Enter
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo1.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo2.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[S] Computing... 9%
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo3.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo4.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[S] Computing... 18%
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo5.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo6.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[S] Computing... 27%
+[S] Computing... 36%
+[S] Computing... 45%
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo7.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[H] Load render material 'Mesh/CubeMat7.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat7.nmm'.
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo8.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[H] Load render material 'Mesh/CubeMat8.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat8.nmm'.
+[S] Computing... 54%
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo9.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[H] Load render material 'Mesh/CubeMat9.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat9.nmm'.
+[S] Computing... 63%
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo10.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[H] Load render material 'Mesh/CubeMat10.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat10.nmm'.
+[S] Computing... 72%
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/CubeGeo11.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[H] Load render material 'Mesh/CubeMat11.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeMat11.nmm'.
+[S] Computing... 81%
+[S] Computing... 90%
+[S] Computing... 100%
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[S] Preloading complete. Press Enter
+[V] EGL Delete texture 640x50, GL id 18.
+Done loading scene in 0.000ms.
+Group 'SceneGroup': 5 item(s).
+Done loading scene in 0.000ms.
+Scene 'Scenes/spaceship_l1.nms' render setup...
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/frozenCubeRed.nmg'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+Geometry::FromMetaTag(Tag &tag) done in 0.000ms. 8 vertice, 6 polygon(s), 1 material(s).
+[H] Setup geometry 'Mesh/frozenCube.nmg'.
+[H] Load render material 'Mesh/CubeDefaultBlue.nmm'.
+[V] Reusing cached material shader for material 'Mesh/CubeDefaultBlue.nmm'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+Compute vertex normal for @sys/gen/cube.
+[H] Setup geometry '@sys/gen/cube'.
+[H] Load render material '@core/builtin/material/default.nmm'.
+[V] Reusing cached material shader for material '@core/builtin/material/default.nmm'.
+Building geometry triangle list...
+Done, average: 12.000 tri/list, 0.000 bone/list.
+[H] Setup scene 'Scenes/spaceship_l1.nms'.
+[V] New GL texture object id 18.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 900, H: 96
+[V] New GL texture object id 30.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 900, H: 96
+[V] New GL texture object id 31.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 180, H: 140
+[V] New GL texture object id 32.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 120, H: 96
+[V] New GL texture object id 33.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 120, H: 96
+[V] New GL texture object id 34.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 120, H: 96
+[V] New GL texture object id 35.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 120, H: 96
+[V] New GL texture object id 36.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 300, H: 40
+[V] New GL texture object id 37.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 300, H: 40
+[V] Entering DDS texture loader for 'Tex/nrgBarFull.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Tex/nrgBarFull.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Tex/nrgBarFull.png'.
+[V] EGL Delete texture 0x0, GL id 38.
+[V] New GL texture object id 38.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 250, H: 20
+[V] Entering DDS texture loader for 'Tex/nrgBarFill.png'...
+[V] Invalid DDS header.
+[V] Entering PVR texture loader for 'Tex/nrgBarFill.png'...
+[V] Invalid PVR header.
+[V] Creating texture 'Tex/nrgBarFill.png'.
+[V] EGL Delete texture 0x0, GL id 39.
+[V] New GL texture object id 39.
+[V] MIPMAP: True, NPOT: 2, RTT: False, W: 250, H: 20
+[V] New GL texture object id 40.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 600, H: 320
+[V] New GL texture object id 41.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 200, H: 48
+[V] New GL texture object id 42.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 200, H: 48
+[V] New GL texture object id 43.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 600, H: 320
+[V] New GL texture object id 44.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 200, H: 48
+[V] New GL texture object id 45.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 200, H: 48
+[V] New GL texture object id 46.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 1500, H: 500
+[V] New GL texture object id 47.
+[V] MIPMAP: False, NPOT: 2, RTT: True, W: 300, H: 48
+[S] 9
+[V] AL start on channel 1
+[V] AL start on channel 2
+[V] AL start on channel 3
+[V] AL start on channel 4
+[V] AL start on channel 5
+[V] AL start on channel 6
+[V] AL start on channel 7
+[V] AL start on channel 8
+[V] AL start on channel 9
+[H] Reset scene 'Scenes/spaceship_l1.nms'.
+[H] Vorbis stream closed.
+[S] Loading... 0%
+[S] Loading... 0%
+[S] Loading... 0%
+[S] Loading... 0%
+[S] Loading... 0%
+[S] Loading... 0%
+[S] Loading... 0%
+[S] Loading... 0%
+[S] Loading... 0%
+[S] Loading... 0%
+[S] Loading... 0%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 1%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 2%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 3%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 4%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 5%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 6%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 7%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 8%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 9%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 10%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 11%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 12%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 13%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 14%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 15%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 16%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 17%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 18%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 19%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 20%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 21%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 22%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 23%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 24%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 25%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 26%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 27%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 28%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 29%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 30%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 31%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 32%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 33%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 34%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 35%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 36%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 37%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 38%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 39%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 40%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 41%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 42%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 43%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 44%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 45%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 46%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 47%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 48%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 49%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 50%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 51%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 52%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 53%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 54%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 55%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 56%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 57%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 58%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 59%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 60%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 61%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 62%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 63%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 64%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 65%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 66%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 67%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 68%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 69%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 70%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 71%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 72%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 73%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 74%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 75%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 76%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 77%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 78%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 79%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 80%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 81%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 82%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 83%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 84%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 85%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 86%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 87%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 88%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 89%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 90%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 91%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 92%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 93%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 94%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 95%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 96%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 97%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 98%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 99%
+[S] Loading... 100%
+[S] A pattern of 62x30 was constructed. It contains 446 items.
+[S] A pattern of 58x58 was constructed. It contains 166 items.
+[S] A pattern of 24x24 was constructed. It contains 91 items.
+[S] A pattern of 24x24 was constructed. It contains 91 items.
+[S] A pattern of 62x30 was constructed. It contains 446 items.
+[V] AL start on channel 0
+[V] AL start on channel 10
+[V] AL start on channel 11
+[V] AL start on channel 12
+[V] AL start on channel 13
+[S] A pattern of 30x62 was constructed. It contains 446 items.
+[V] AL start on channel 14
+[V] AL start on channel 15
+[V] AL start on channel 16
+[V] AL start on channel 17
+[V] AL start on channel 18
+[V] AL start on channel 19
+[V] AL start on channel 20
+[V] AL start on channel 21
+[V] AL start on channel 0
+[V] AL start on channel 10
+[V] AL start on channel 11
+[V] AL start on channel 12
+[V] AL start on channel 13
+[V] AL start on channel 14
+[V] AL start on channel 15
+[V] AL start on channel 16
+[S] A pattern of 24x24 was constructed. It contains 25 items.
+[V] AL start on channel 0
+[V] AL start on channel 10
+[V] AL start on channel 11
+[S] A pattern of 24x24 was constructed. It contains 13 items.
+[V] AL start on channel 0
+[V] AL start on channel 10
+[V] AL start on channel 11
+[V] AL start on channel 12
+[S] A pattern of 24x24 was constructed. It contains 48 items.
+[V] AL start on channel 13
+[V] AL start on channel 0
+[V] AL start on channel 10
+[V] AL start on channel 11
+[V] AL start on channel 0
+[V] AL start on channel 12
+[S] A pattern of 24x24 was constructed. It contains 56 items.
+[V] AL start on channel 10
+[V] AL start on channel 11
+[V] AL start on channel 0
+[V] AL start on channel 12
+[V] AL start on channel 10
+[V] AL start on channel 11
+[S] A pattern of 62x30 was constructed. It contains 446 items.
+[V] AL start on channel 0
+[V] AL start on channel 12
+[V] AL start on channel 0
+[V] AL start on channel 10
+[V] AL start on channel 11
+[S] A pattern of 58x58 was constructed. It contains 166 items.
+[V] AL start on channel 12
+[S] A pattern of 24x24 was constructed. It contains 91 items.
+[S] A pattern of 24x24 was constructed. It contains 91 items.
+[S] A pattern of 62x30 was constructed. It contains 446 items.
+[V] AL start on channel 0
+[V] AL start on channel 10
+[V] AL start on channel 11
+[V] AL start on channel 12
+[V] AL start on channel 13
+[V] AL start on channel 14
+[V] AL start on channel 15
+[V] AL start on channel 16
+[V] AL start on channel 0
+[S] A pattern of 30x62 was constructed. It contains 446 items.
+[V] AL start on channel 10
+[V] AL start on channel 11
+[V] AL start on channel 12
+[V] AL start on channel 17
+[V] AL start on channel 13
+[V] AL start on channel 18
+[V] AL start on channel 19
+[S] A pattern of 24x24 was constructed. It contains 25 items.
+[S] A pattern of 24x24 was constructed. It contains 13 items.
