@@ -1,0 +1,47 @@
+<Version=1.0>
+<Material=
+	<Diffuse=
+		<X=0.870588>
+		<Y=0.623529>
+		<Z=0.000000>
+		<W=1.000000>
+	>
+	<Self=
+		<X=0.552941>
+		<Y=0.054902>
+		<Z=0.054902>
+	>
+	<Glossiness=0.100000>
+	<AlphaThreshold=0.100000>
+	<PhysicMaterial=
+		<StaticFriction=0.750000>
+		<DynamicFriction=0.500000>
+		<Restitution=0.100000>
+	>
+	<RenderMask=
+		<Smoothing>
+		<NormalMapTangent>
+		<DoubleSided>
+		<NoZWrite>
+		<AlphaTest>
+	>
+	<BlendOp="Alpha">
+	<Shader="Mesh/Material__particle1_png-shader-tree.nsa">
+	<TextureStage=
+		<Index=0>
+		<Texture="Tex/particle1.png">
+		<UV=0>
+		<Channel="Opacity">
+	>
+	<TextureStage=
+		<Index=1>
+		<Texture="Tex/particle1.png">
+		<UV=0>
+	>
+	<TextureStage=
+		<Index=2>
+		<Texture="Tex/particle1.png">
+		<UV=0>
+		<Channel="SelfIllum">
+	>
+>

@@ -1,0 +1,13 @@
+<Version=1.0>
+<Environment=
+	<Name="Sagittarius">
+	<Authors="DG">
+	<Description="Schmup">
+	<Company="Copyright 2011">
+	<ScriptUnit=
+		<ScriptPath="Script/schmup.nut">
+		<Class="SchmupProject">
+	>
+	<Include>
+	<SearchPaths>
+>
